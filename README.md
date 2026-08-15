@@ -1,15 +1,15 @@
 # 🌟 Hello World! I'm Prakash Kumar Gupta 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+I'm+Prakash+Kumar+Gupta;B.Tech+2nd+Year+Student+%26+Developer;Passionate+about+DSA%2C+Python+%26+Data+Science;Love+Singing+🎤+%26+Coding+💻" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://github.com/guptaprakashkumar309-spec">
-      <img src="https://komarev.com/normal-ase.png?username=guptaprakashkumar309-spec&style=flat-square&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-Learning_%26_Building-brightgreen?style=flat-square" alt="Status Badge" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=50&lines=Hi+there!+I'm+Prakash+Kumar+Gupta;B.Tech+2nd+Year+Student+%26+Developer;Passionate+about+DSA%2C+Python+%26+Data+Science;Love+Singing+and+Coding" alt="Typing SVG" />
+  
+  <br /><br />
+  
+  <a href="https://github.com/guptaprakashkumar309-spec">
+    <img src="https://komarev.com/normal-ase.png?username=guptaprakashkumar309-spec&style=flat-square&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=flat-square" alt="Status Badge" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ I am a **B.Tech 2nd Year Student** with a developer mindset, passionate about so
 ### 📂 Featured Projects
 
 #### 🎵 [Battle of Singing](https://github.com/guptaprakashkumar309-spec/battle-of-singing)
-A interactive web application designed for singing competitions. Users can upload their singing performances, listen to others, and vote for their favorite contestants in real time.
+An interactive web application designed for singing competitions. Users can upload their singing performances, listen to others, and vote for their favorite contestants in real time.
 
 #### 🧠 [Flashcard Quiz App](https://github.com/guptaprakashkumar309-spec/flashcard-quiz-app)
 An interactive learning web application that uses dynamic flashcards to help students study, test their memory, and track quiz performance.
